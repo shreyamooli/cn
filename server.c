@@ -92,4 +92,4 @@ int main()
     // After chatting close the socket
     close(sockfd);
 }
-server.c
+
